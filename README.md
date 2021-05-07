@@ -1,1 +1,1 @@
-# Correlation-and-Regression
+# This repository is about using matplotlib and seaborn to create statistical summaries of data concerning commutes in St. Louis. It also is about finding correlations between variables as well as regression.
